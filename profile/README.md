@@ -2,13 +2,13 @@
      Lives in the repository FLC-QU-hep/.github at profile/README.md and is
      shown at the top of https://github.com/FLC-QU-hep. -->
 
-# FLC-QU-hep
+# DESY FTX and UHH Particles & Detectors – Generative Modeling
 
-Machine learning for particle physics at Universität Hamburg and DESY. We build
-generative models for fast calorimeter simulation and study how they transfer
-between detector geometries. This organization hosts the code of our
-publications. Trained weights are on
-[Hugging Face](https://huggingface.co/FLC-QU-hep).
+Machine learning for particle physics in the FTX group at DESY and the
+Particles & Detectors group at Universität Hamburg. We build generative models
+for fast calorimeter simulation and study how they transfer between detector
+geometries. This organization hosts the code of our publications. Trained
+weights are on [Hugging Face](https://huggingface.co/FLC-QU-hep).
 
 ## Publications and code
 

@@ -16,6 +16,7 @@ Most recent first, by arXiv date.
 
 | Paper | Journal | Code | Weights |
 |---|---|---|---|
+| | | [`LayerFM`](https://github.com/FLC-QU-hep/LayerFM) | [`LayerFM`](https://huggingface.co/FLC-QU-hep/LayerFM) |
 | Transferable Fast Calorimeter Shower Generation via Multi-Geometry Pre-training, [arXiv:2608.18233](https://arxiv.org/abs/2608.18233) | | [`AllShowers`, branch `multi-geometry`](https://github.com/FLC-QU-hep/AllShowers/tree/multi-geometry) · [`PointCountFM`, branch `multi-geometry`](https://github.com/FLC-QU-hep/PointCountFM/tree/multi-geometry) · [`multi-calorimeter-dataset`](https://github.com/FLC-QU-hep/multi-calorimeter-dataset) | [`AllShowers-multi-geometry`](https://huggingface.co/FLC-QU-hep/AllShowers-multi-geometry), [`PointCountFM-multi-geometry`](https://huggingface.co/FLC-QU-hep/PointCountFM-multi-geometry) |
 | AllShowers: One model for all calorimeter showers, [arXiv:2601.11716](https://arxiv.org/abs/2601.11716) | [SciPost Phys. 21, 076 (2026)](https://doi.org/10.21468/SciPostPhys.21.3.076) | [`AllShowers`](https://github.com/FLC-QU-hep/AllShowers) · [`PointCountFM`](https://github.com/FLC-QU-hep/PointCountFM) | |
 | Cross-Geometry Transfer Learning in Fast Electromagnetic Shower Simulation, [arXiv:2512.00187](https://arxiv.org/abs/2512.00187) | [JINST 21 (2026) P07037](https://doi.org/10.1088/1748-0221/21/07/P07037) | [`CaloTransfer`](https://github.com/FLC-QU-hep/CaloTransfer) | |

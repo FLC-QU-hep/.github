@@ -38,8 +38,15 @@ Most recent first, by arXiv date.
 | CaloClouds training data | Photon showers of 10 to 90 GeV in the ILD ECAL, point clouds with up to 6000 points per shower, used by CaloClouds, CaloClouds II and CaloClouds3 | [DESY Sync&Share](https://syncandshare.desy.de/index.php/s/XfDwx33ryERwPdi) |
 | High Granularity Electromagnetic Shower Images (2020) | About 24,000 photon showers in the ILD ECAL as 30 x 30 x 30 voxel images, sample of the Getting High training data | Zenodo, [doi:10.5281/zenodo.3826103](https://doi.org/10.5281/zenodo.3826103) |
 
-Shared tooling: [`ShowerData`](https://github.com/FLC-QU-hep/ShowerData), a
-library to store and load calorimeter shower data for machine learning.
+## Shared tooling
+
+| Tool | Description | PyPI Package |
+|---|---|---|
+| [`ShowerData`](https://github.com/FLC-QU-hep/ShowerData) | Library to store and load calorimeter shower data for machine learning | [`showerdata`](https://pypi.org/project/showerdata/) |
+| [`RangerLite`](https://github.com/FLC-QU-hep/ranger-lite) | PyTorch optimizer combining Lookahead with RAdam, a lightweight alternative to the original [Ranger optimizer](https://github.com/lessw2020/Ranger-Deep-Learning-Optimizer) | [`rangerlite`](https://pypi.org/project/rangerlite/) |
+
+Install a package with `pip install <package>`, or with
+[uv](https://docs.astral.sh/uv/) via `uv add <package>` in a uv project.
 
 To add a paper, a dataset or a release, open a pull request editing `profile/README.md` in
 [`FLC-QU-hep/.github`](https://github.com/FLC-QU-hep/.github).

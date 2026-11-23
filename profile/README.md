@@ -32,6 +32,7 @@ Most recent first, by arXiv date.
 
 | Dataset | Content | Where |
 |---|---|---|
+| 10-90 GeV Pion+ datasets with time feature (2026) | 2 million π<sup>+</sup> showers of 10 to 90 GeV in the ILD ECAL and HCAL with hit times, point clouds in three versions: the CaloCHILL and CaloHadronic training sets on a virtual grid nine times finer than the readout, and the physical readout cells, about 115 GB | Universität Hamburg Research Data Repository, [doi:10.25592/uhhfdm.22077](https://doi.org/10.25592/uhhfdm.22077) |
 | Multi-Geometry Calorimeter Showers (2026) | Geant4 shower point clouds for SimpleBox, the four LEMURS detectors (CLD, ODD, Par04 SciPb, Par04 SiW) and ALLEGRO, with held-out test sets, about 465 GB | Universität Hamburg Research Data Repository, [doi:10.25592/uhhfdm.19103](https://doi.org/10.25592/uhhfdm.19103) (card on [Hugging Face](https://huggingface.co/datasets/FLC-QU-hep/calorimeter-showers-multi-geometry)) |
 | AllShowers Dataset (2026) | Geant4 showers of electrons, photons and charged and neutral hadrons in the ILD detector, point clouds, about 78 GB | Zenodo, [doi:10.5281/zenodo.18020348](https://doi.org/10.5281/zenodo.18020348) |
 | CaloHadronic (2025) | Pion showers of 10 to 90 GeV in the ILD ECAL and HCAL, point clouds, 4.1 GB | Zenodo, [doi:10.5281/zenodo.15301636](https://doi.org/10.5281/zenodo.15301636) |
